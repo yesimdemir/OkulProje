@@ -1,0 +1,17 @@
+D:\Projects\OkulProje\bin\Debug\OkulProje.exe.config
+D:\Projects\OkulProje\bin\Debug\OkulProje.exe
+D:\Projects\OkulProje\bin\Debug\OkulProje.pdb
+D:\Projects\OkulProje\obj\Debug\OkulProje.csproj.AssemblyReference.cache
+D:\Projects\OkulProje\obj\Debug\OkulProje.csproj.SuggestedBindingRedirects.cache
+D:\Projects\OkulProje\obj\Debug\OkulProje.Form1.resources
+D:\Projects\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+D:\Projects\OkulProje\obj\Debug\OkulProje.csproj.GenerateResource.cache
+D:\Projects\OkulProje\obj\Debug\OkulProje.csproj.CoreCompileInputs.cache
+D:\Projects\OkulProje\obj\Debug\OkulProje.exe
+D:\Projects\OkulProje\obj\Debug\OkulProje.pdb
+D:\Projects\OkulProje\obj\Debug\OkulProje.FrmOgrenciNotlar.resources
+D:\Projects\OkulProje\obj\Debug\OkulProje.FrmOgretmen.resources
+D:\Projects\OkulProje\obj\Debug\OkulProje.FrmKulup.resources
+D:\Projects\OkulProje\obj\Debug\OkulProje.FrmDersler.resources
+D:\Projects\OkulProje\obj\Debug\OkulProje.FrmOgrenci.resources
+D:\Projects\OkulProje\obj\Debug\OkulProje.FrmSinavNotlar.resources
